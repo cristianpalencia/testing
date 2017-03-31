@@ -2,7 +2,7 @@
 
 int main()
 {
-	/*This is a comment!*/
+	/*This is a comment!#$%$#$*/
 	printf("Hello");
 	return 0;
 }
